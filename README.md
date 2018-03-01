@@ -1,2 +1,2 @@
-# Code-Minimizer
-A source code minimizer in Java
+# CodeMinimizer
+Implementation of a code minimizer(minifier) in Java
